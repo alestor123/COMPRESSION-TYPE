@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/alestor123/COMPRESSION-TYPE#readme",
   "dependencies": {
-    "file-type": "^16.2.0"
+    "file-type": "^4.2.0"
   }
 }
